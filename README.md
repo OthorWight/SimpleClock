@@ -16,18 +16,18 @@ SimpleClock is a lightweight, minimalistic clock and stopwatch application built
 - **Reset Window Position:**  
   Double-click anywhere on the window to reposition it to the bottom right of your screen.
 
-- **Topmost Toggle:**  
-  Press **F2** to toggle whether the window stays on top of other windows.
-
 - **Help Window:**  
   Press **F1** to display a context-aware help window that shows all available features. It smartly positions itself next to the clock without leaving the screen.
+
+- **Topmost Toggle:**  
+  Press **F2** to toggle whether the window stays on top of other windows.
 
 ## Installation
 
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/SimpleClock.git
+   git clone https://github.com/OthorWight/SimpleClock.git
 Open the Solution:
 
 Open SimpleClock.sln in Visual Studio Community 2022.
